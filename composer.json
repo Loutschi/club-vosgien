@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nimmneun/onesheet": "^1.2",
+        "phpmailer/phpmailer": "^6.7"
+    }
+}
